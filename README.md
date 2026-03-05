@@ -38,13 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <!--
 **DevBernardoBarreto/DevBernardoBarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
